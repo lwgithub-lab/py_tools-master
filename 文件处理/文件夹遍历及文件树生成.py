@@ -19,7 +19,7 @@ class FileClass:
     def __init__(self, name):
         self.filename = name
 
-#    ###遍历文件夹，处理每个文件
+#   ###遍历文件夹，处理每个文件
     def walkfile(self):
         """
         root [表示当前正在访问的文件夹路径],
